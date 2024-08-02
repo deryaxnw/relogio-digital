@@ -4,6 +4,6 @@ Ao decorrer que as hrs passam , a imagem e a cor de background muda para  a 'apa
 
 exemplo :
 
-manhã - nascer do sol
-tarde - sol quente
+manhã - nascer do sol /
+tarde - sol quente /
 noite - escuro
