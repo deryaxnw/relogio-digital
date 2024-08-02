@@ -1,0 +1,59 @@
+body {
+    background-color: rgba(189, 126, 32, 0.774);
+}
+
+header , h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+section {
+    background-color: rgba(247, 240, 240, 0.712);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 0px 0px 10px rgba(3, 3, 3, 0.603);
+    margin: auto;
+}
+
+div {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+footer {
+    color: rgba(240, 248, 255, 0.658);
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+}
+
+.relogio {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    transform: translate(465px , 20px);
+    padding: 10px;
+    color: white;
+    width: 550px;
+    height: 150px;
+    background: transparent;
+    border-radius: 3px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.658);
+
+}
+
+.relogio div {
+    height: 50px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.849);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.664);
+    border-radius: 10px;
+}
